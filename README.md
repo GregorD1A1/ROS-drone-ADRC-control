@@ -9,4 +9,4 @@ ADRC.py - script with Active Disturbance Rejection Control based controller.
 
 PID.py - script with PID controller (simplest than ADRC).
 
-...plotter.py - additional files, that plots regulation curveys.
+...plotter.py - additional files, that plots regulation curves.
